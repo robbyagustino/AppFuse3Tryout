@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.test.webapp.controller.ExamFormControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.738 sec - in com.test.webapp.controller.ExamFormControllerTest

@@ -1,0 +1,9 @@
+com\test\webapp\controller\UpdatePasswordControllerTest.class
+com\test\webapp\controller\SignupControllerTest.class
+com\test\webapp\controller\UserControllerTest.class
+com\test\webapp\filter\LocaleFilterTest.class
+com\test\webapp\listener\StartupListenerTest.class
+com\test\webapp\controller\UserFormControllerTest.class
+com\test\webapp\controller\PasswordHintControllerTest.class
+com\test\webapp\controller\BaseControllerTestCase.class
+com\test\webapp\filter\MockFilterChain.class

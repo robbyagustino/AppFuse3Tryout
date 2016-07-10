@@ -1,0 +1,8 @@
+
+mvn jetty:run
+mvn test-compile hibernate3:hbm2ddl -X
+mvn test -Dtest=QuestionDaoTest -X
+mvn test -Dtest=TestExamDaoTest -X
+mvn test -Dtest=ChoiceAnswerDaoTest -X
+mvn test -Dtest=ExamFormControllerTest
+mvn test -Dtest=ExamControllerTest
